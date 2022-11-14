@@ -1,0 +1,32 @@
+version 3
+------------
+- ajoute testSuite 
+
+
+version 2.3
+--------------
+- trie methode dans l'ordre
+
+version 2.2
+---------------
+- Ajoute assertEquals sans texte 
+
+
+version 2.3
+---------------
+- ajoute sortieTexteSimple
+
+
+version 2.1
+---------------
+
+
+
+***********************
+
+version 2.0
+--------------
+
+* bug detecte - pose des problemes quand boucle infinie compilee en java8
+--> impossible d'appeler la methode stop
+--> corrige passe par interrupt
